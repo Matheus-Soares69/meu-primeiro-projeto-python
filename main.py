@@ -19,7 +19,7 @@ elif media >= 5:
 else:
     print("Situação: Reprovado")
 
-print(f"A maior nota foi {maior}")
+print(f"A maior nota foi: {maior}")
 print(f"A menor nota foi: {menor}")
 
 
